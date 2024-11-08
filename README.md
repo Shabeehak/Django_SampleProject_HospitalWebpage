@@ -1,0 +1,1 @@
+# Django_SampleProject_HospitalWebpage
